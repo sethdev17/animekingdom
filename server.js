@@ -81,12 +81,14 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <h1>${welcomeMessage}</h1>
-            <p>Dacă ești un iubitor de animeuri te așteptăm pe server-ul nostru de Discord:</p>
+            <p>Dacă ești un iubitor de anime-uri te așteptăm pe server-ul nostru de Discord:</p>
             <p><a href="https://discord.gg/7bkkg9a5ee" target="_blank">Alătură-te serverului nostru de Discord</a></p>
 
             <div class="image-container">
                 <img src="https://i.imgur.com/FmA2uln.jpeg" alt="Anime">
             </div>
+
+            <p>Salutare, după cum cred că deja v-ați dat seama... îmi plac anime-urile, și cu ocazia aceasta, am decis să-mi creez propriul meu server de discord pe această temă. De ce? Deoarece în viața mea cunosc foarte puține (spre deloc) persoane ce se uită la acest gen de divertisment și m-am gândit că dacă aș crea o comunitate șansele de a cunoaște oameni cu același gusturi, cresc. Și nu-i acesta singurul motiv, mă gândeam că făcând asta, aș reuși să unesc oamenii și să creez un mediu prietenos și plăcut pentru ei deoarece probabil, majoritatea trec prin aceleași situații. Deocamdată încă nu am reușit să-mi împlinesc acest vis dar cu puțină răbdare și speranță, cred că voi reuși.</p>
 
             <script>
             </script>
